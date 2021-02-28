@@ -1,6 +1,6 @@
 baseURL = "https://norioakimoto.github.io/norioakimoto/"
 languageCode = "ja"
-title = "Minimal"
+title = "C16-Page"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
@@ -28,7 +28,7 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    url = "/post/"
+    url = "/posts/"
     name = "Posts"
     weight = 3
 
