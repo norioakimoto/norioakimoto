@@ -1,15 +1,15 @@
 baseURL = "https://norioakimoto.github.io/norioakimoto/"
 languageCode = "ja"
-title = "C16-Page"
+title = "C16-Pages"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
+    author = "Norio A"
     description = "azure,aws,salesforce,herokuとか、クラウドプラットフォーム開発を中心に更新していきます"
     githubUsername = "#"
-    accent = "red"
+    accent = "gray"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
