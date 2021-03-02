@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Norio A"
-    description = "azure,aws,salesforce,herokuとか、クラウドプラットフォーム開発を中心に更新していきます"
+    description = "azure,aws,salesforce,herokuとか、クラウドプラットフォーム開発のメモと植物の話"
     githubUsername = "#"
     accent = "gray"
     showBorder = true
@@ -42,12 +42,12 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:nakimot1@outlook.jp"
     name = "fas fa-envelope"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/norioakimoto/"
     name = "fab fa-github"
     weight = 2
 
