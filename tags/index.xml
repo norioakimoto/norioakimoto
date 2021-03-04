@@ -5,11 +5,12 @@
     <link>https://norioakimoto.github.io/norioakimoto/tags/</link>
     <description>Recent content in Tags on C16-Pages</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://norioakimoto.github.io/norioakimoto/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://norioakimoto.github.io/norioakimoto/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>azure</title>
       <link>https://norioakimoto.github.io/norioakimoto/tags/azure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://norioakimoto.github.io/norioakimoto/tags/azure/</guid>
       <description></description>
@@ -18,7 +19,7 @@
     <item>
       <title>M365</title>
       <link>https://norioakimoto.github.io/norioakimoto/tags/m365/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://norioakimoto.github.io/norioakimoto/tags/m365/</guid>
       <description></description>
@@ -27,7 +28,7 @@
     <item>
       <title>PowerAutomate</title>
       <link>https://norioakimoto.github.io/norioakimoto/tags/powerautomate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://norioakimoto.github.io/norioakimoto/tags/powerautomate/</guid>
       <description></description>
@@ -36,9 +37,36 @@
     <item>
       <title>REST-API</title>
       <link>https://norioakimoto.github.io/norioakimoto/tags/rest-api/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://norioakimoto.github.io/norioakimoto/tags/rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>家庭菜園</title>
+      <link>https://norioakimoto.github.io/norioakimoto/tags/%E5%AE%B6%E5%BA%AD%E8%8F%9C%E5%9C%92/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://norioakimoto.github.io/norioakimoto/tags/%E5%AE%B6%E5%BA%AD%E8%8F%9C%E5%9C%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>植物</title>
+      <link>https://norioakimoto.github.io/norioakimoto/tags/%E6%A4%8D%E7%89%A9/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://norioakimoto.github.io/norioakimoto/tags/%E6%A4%8D%E7%89%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>田舎生活</title>
+      <link>https://norioakimoto.github.io/norioakimoto/tags/%E7%94%B0%E8%88%8E%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://norioakimoto.github.io/norioakimoto/tags/%E7%94%B0%E8%88%8E%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
     

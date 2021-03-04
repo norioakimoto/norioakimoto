@@ -6,7 +6,16 @@
     <description>Recent content in Posts on C16-Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://norioakimoto.github.io/norioakimoto/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://norioakimoto.github.io/norioakimoto/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PowerAutomateでデータ操作をしよう　その1</title>
+      <link>https://norioakimoto.github.io/norioakimoto/posts/powerautomate%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://norioakimoto.github.io/norioakimoto/posts/powerautomate%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
+      <description>最近はやりのPowerAutomateでExcelのデータを(なるべくかっこ良く)配列化してみる </description>
+    </item>
+    
     <item>
       <title>種蒔きの時期</title>
       <link>https://norioakimoto.github.io/norioakimoto/posts/my-first-post/</link>
@@ -16,15 +25,6 @@
       <description>夏に向けて野菜の種を蒔いてみた 以前から家庭菜園をやっているのだが、去年は引っ越しやらで忙しく種まきからの収穫があまり出来なかった 今年はベストシーズンに合わせて種まきできたので夏〜秋に収穫できるだろう
 ＊色々と種を蒔いてみた
 1. ウリの種（甘いやつ） 2. ウリの種（甘くないやつ） 3. ゴーヤ 4. ローゼル（ハイビスカスティーの原料）  植物達の経過は、ときどきこのblogで記録していく</description>
-    </item>
-    
-    <item>
-      <title>PowerAutomateでデータ操作をしよう　その1</title>
-      <link>https://norioakimoto.github.io/norioakimoto/posts/powerautomate%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://norioakimoto.github.io/norioakimoto/posts/powerautomate%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
-      <description>最近はやりのPowerAutomateでExcelのデータを(なるべくかっこ良く)配列化してみる </description>
     </item>
     
   </channel>

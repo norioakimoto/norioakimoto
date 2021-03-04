@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C16-Pages</title>
-    <link>https://norioakimoto.github.io/norioakimoto/</link>
-    <description>Recent content on C16-Pages</description>
+    <title>植物 on C16-Pages</title>
+    <link>https://norioakimoto.github.io/norioakimoto/tags/%E6%A4%8D%E7%89%A9/</link>
+    <description>Recent content in 植物 on C16-Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://norioakimoto.github.io/norioakimoto/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PowerAutomateでデータ操作をしよう　その1</title>
-      <link>https://norioakimoto.github.io/norioakimoto/posts/powerautomate%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B/</link>
-      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://norioakimoto.github.io/norioakimoto/posts/powerautomate%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
-      <description>最近はやりのPowerAutomateでExcelのデータを(なるべくかっこ良く)配列化してみる </description>
-    </item>
-    
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://norioakimoto.github.io/norioakimoto/tags/%E6%A4%8D%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>種蒔きの時期</title>
       <link>https://norioakimoto.github.io/norioakimoto/posts/my-first-post/</link>
