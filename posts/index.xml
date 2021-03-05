@@ -6,7 +6,22 @@
     <description>Recent content in Posts on C16-Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://norioakimoto.github.io/norioakimoto/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://norioakimoto.github.io/norioakimoto/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PowerAutomateでデータ操作をしよう　その1</title>
+      <link>https://norioakimoto.github.io/norioakimoto/posts/powerautomate%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://norioakimoto.github.io/norioakimoto/posts/powerautomate%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B/</guid>
+      <description>PowerAutomateでExcelのデータを(なるべくかっこ良く)配列化してみる 　やりたいこと PowerAutomateでExcelのデータをまるっと配列に入れておいて、array.col3[20]　みたいに住所を指定したら　ピンポイントで欲しいデータを取得できるようにしたい。
+　困ってること これをPowerAutomateのexcel コネクターだけでやろうとすると…
+ EXCEL（online）の「表内に存在する行を一覧表示」アクションを追加 参照するEXCELテーブルを指定 apply to each ループで1行毎のループを作成 ループのfilterオプションで 「 indexNo eq &amp;lsquo;20&amp;rsquo; 」のように行番号を指定 メール送信等のアクションへ取り出したい値の列（col3）を動的オブジェクトとして設定  という具合に設定することでピンポイントでデータの取り出しは出来るだろう。
+しかしこの場合、データを取り出す度に上記ループアクションを入れなくてはならないし、「 indexNo 」のような一意の番号列がテーブル内に無くてはならない。
+何より処理に時間が掛る。 　どうやるか  「変数を初期化」アクションを追加しオブジェクト変数を定義する EXCEL（online）の「表内に存在する行を一覧表示」アクションを追加 ※ここで一旦フローを実行 「表内に存在する行を一覧表示」アクションのhttpリクエスト結果をコピーする 「変数へ追加」アクションを追加し「サンプルから生成」ボタンをクリック 開いた入力欄へ　4.でコピーした結果を貼り付け「OK」をクリック 「JSONの解析」アクションを追加し「サンプルから生成」ボタンをクリック 開いた入力欄へ　4.でコピーした結果を貼り付け「OK」をクリック 以上  ※これでEXCEL（online）オブジェクトのhtttpリクエストからjsonヘッダが生成される
+上記のフローを作っておけば、以降のアクションでは array.col3[20]　のように　変数テーブルとして読み込み済みのデータを住所形式で指定できる。
+超早い。便利。</description>
+    </item>
+    
     <item>
       <title>種蒔きの時期</title>
       <link>https://norioakimoto.github.io/norioakimoto/posts/my-first-post/</link>
